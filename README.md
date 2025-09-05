@@ -1,7 +1,7 @@
 ## Hi there, I'm Manon 
 
 ### Currently Building:    
-- [QuickExpense](https://github.com/manonja/quickExpense): the ultimate receipt scanner using LLM to turn receipts into new expense and tax optimisation for solopreneurs. Stack: **fastAPI**, **gemini models**, **quickens API**, **iOS**, **Expo**
+- [QuickExpense](https://github.com/manonja/quickExpense): a receipt scanner using LLM to turn receipts into new expense and tax optimisation for solopreneurs. I am building it public, you can check the roadmap [here](https://www.notion.so/QuickExpense-Product-Roadmap-079fec152cf44a5aa7d0962387eb1740?source=copy_link). Stack: **fastAPI**, **gemini models**, **quickens API**, **iOS**, **Expo**
 - A OS Scheduler in **Rust** to deepen my understanding of first principles and deep core backend engineering, as part of the curriculum I created.
 - Privacy First AI product to help lawyers draft and chat over their own database more efficiently [prae8](https://www.prae8.com/). Stack: **Nextjs**, **Python**, **HuggingFace** Open Source models, **Supabase pg_vector Dabase** , **Runpod**, **GCP**, **Docker**, **Pulumi**
 
